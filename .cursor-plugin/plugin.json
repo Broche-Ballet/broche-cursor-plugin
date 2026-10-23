@@ -1,0 +1,16 @@
+{
+  "name": "broche-ballet",
+  "displayName": "Broche Ballet",
+  "description": "Find Broche classes and programs from your AI chat. Search is free for everyone. Members can see their week, favorites, and pointe.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Broche Ballet",
+    "email": "hello@brocheballet.com"
+  },
+  "publisher": "Broche Ballet",
+  "homepage": "https://brocheballet.com/connect-with-ai",
+  "repository": "https://github.com/Broche-Ballet/broche-cursor-plugin",
+  "license": "MIT",
+  "keywords": ["ballet", "classes", "programs", "broche"],
+  "logo": "assets/logo.png"
+}
