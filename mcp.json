@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "broche-ballet": {
+      "url": "https://api.brocheballetonline.com/mcp"
+    }
+  }
+}
